@@ -1,0 +1,66 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+  font-family: realist, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #f5f5f5;
+  align-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-family: scriptorama-tradeshow-jf, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4em;
+  color: #f5f5f5;
+  margin: 0;
+  padding-top: 18px;
+}
+
+h2{
+  margin-top: 50px;
+}
+
+#header {
+  background-color: #3b3b3b;
+  height: 140px;
+  margin: 0;
+  text-align: center;
+}
+
+#colorDiv {
+  height: 25px;
+  background-color: #f5f5f5;
+  box-shadow: 10px 10px 5px #171717;
+  vertical-align: 30%;
+  margin-bottom: 50px;
+}
+
+#colorLabel { 
+  color: #3b3b3b;
+  padding: 10px;
+}
+
+option {
+  font-family: realist, sans-serif;
+}
+
+select {
+  font-family: realist, sans-serif;
+  height: 30px;
+}
+
+#resetButton {
+  margin-top: 50px;
+  background-color: #f5f5f5;
+  color: #171717;
+  font-family: realist, sans-serif;
+  border-radius: 5px;
+  height: 30px;
+  width: 60px;
+}
